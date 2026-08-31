@@ -1,0 +1,836 @@
+台灣新聞YT,#genre#
+TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
+民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
+三立新聞,https://www.youtube.com/watch?v=iNIy3lMuljU
+三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
+三立新聞網,https://www.youtube.com/watch?v=XtllcS--JCs
+三立LIVE,https://www.youtube.com/watch?v=MV9mI0GChwo
+三立INEW,https://www.youtube.com/watch?v=pF507BLtbqU
+三立財經,https://www.youtube.com/watch?v=1mbhK0xfohY
+中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
+東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
+東森財經,https://www.youtube.com/watch?v=AEBeWMM1atA
+華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
+台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
+寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
+寰宇新聞台灣,https://www.youtube.com/watch?v=w87VGpgd90U
+寰宇財經,https://www.youtube.com/watch?v=WTRQiVWK1jY
+鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
+公共電視,https://www.youtube.com/watch?v=C6gYqSHLRw4
+JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
+ELTA影劇,https://www.chaojidianshi.net/zhibo/gangtaizhibo/aierdayingju.html
+
+MODTEST,#genre#
+amc電影台,udp://@224.1.4.43:11111
+amc電影台,udp://@230.1.2.157:11111
+Animax,udp://@224.1.4.237:11111
+Animax,udp://@230.1.2.77:11111
+Arirang TV,udp://@224.1.4.184:11111
+Arirang TV,udp://@224.1.4.92:11111
+ROCK ACTION,udp://@230.1.2.181:11111
+BBC Earth,udp://@230.1.2.172:11111
+BBC Earth,udp://@230.1.2.9:11111
+BBC Lifestyle Channel,udp://@230.1.2.10:11111
+BBC Lifestyle Channel,udp://@230.1.2.173:11111
+BBC World News,udp://@224.1.4.52:11111
+BBC World News,udp://@230.1.2.250:11111
+Bloomberg TV,udp://@224.1.4.197:11111
+Bloomberg TV,udp://@224.1.4.79:11111
+CARTOONITO,udp://@224.1.4.15:11111
+CARTOONITO,udp://@224.1.4.161:11111
+CatchPlay電影台,udp://@230.1.2.217:11111
+CatchPlay電影台,udp://@230.1.2.37:11111
+CBeebies,udp://@224.1.4.213:11111
+CBeebies,udp://@224.1.4.75:11111
+Channel NewsAsia頻道,udp://@224.1.4.139:11111
+Channel NewsAsia頻道,udp://@230.1.2.11:11111
+CinemaWorld,udp://@230.1.2.201:11111
+CinemaWorld,udp://@230.1.2.222:11111
+CinemaWorld,udp://@230.1.2.3:11111
+CMusic,udp://@224.1.4.159:11111
+CMusic,udp://@230.1.2.60:11111
+CNBC Asia Channel,udp://@224.1.4.118:11111
+CNBC Asia Channel,udp://@224.1.4.140:11111
+CNN International,udp://@224.1.4.235:11111
+CNN International,udp://@230.1.2.69:11111
+Discovery Asia,udp://@230.1.2.168:11111
+Discovery Asia,udp://@230.1.2.6:11111
+Discovery科學頻道,udp://@230.1.2.12:11111
+Discovery科學頻道,udp://@230.1.2.212:11111
+DMAX,udp://@230.1.2.13:11111
+DMAX,udp://@230.1.2.213:11111
+DreamWorks,udp://@224.1.4.121:11111
+DreamWorks,udp://@224.1.4.177:11111
+德國之聲電視台,udp://@224.1.4.120:11111
+德國之聲電視台,udp://@224.1.4.147:11111
+ELEVEN SPORTS PLUS,udp://@224.1.4.115:11111
+ELEVEN SPORTS PLUS,udp://@224.1.4.189:11111
+ELEVEN SPORTS 2,udp://@224.1.4.156:11111
+ELEVEN SPORTS 2,udp://@230.1.2.79:11111
+ELTV生活英語台,udp://@224.1.4.216:11111
+ELTV生活英語台,udp://@230.1.2.83:11111
+ETtoday綜合台,udp://@224.1.4.212:11111
+Euronews,udp://@224.1.4.119:11111
+EUROSPORT,udp://@224.1.4.135:11111
+EVE,udp://@230.1.2.14:11111
+EVE,udp://@230.1.2.214:11111
+EYE TV戲劇台,udp://@224.1.4.60:11111
+EYE TV戲劇台,udp://@230.1.2.134:11111
+EYE TV旅遊台,udp://@224.1.4.192:11111
+EYE TV旅遊台,udp://@224.1.4.61:11111
+EYE TV旅遊台,udp://@230.1.2.135:11111
+時尚頻道,udp://@230.1.2.177:11111
+Food Network 美食台頻道,udp://@224.1.4.211:11111
+Food Network 美食台頻道,udp://@224.1.4.57:11111
+FRANCE24(English),udp://@224.1.4.166:11111
+FRANCE24(English),udp://@230.1.2.24:11111
+FRANCE24(French),udp://@230.1.2.15:11111
+Global Trekker,udp://@224.1.4.162:11111
+Global Trekker,udp://@224.1.4.82:11111
+GOOD TV 2,udp://@224.1.4.122:11111
+GOOD TV 2,udp://@224.1.4.4:11111
+GOOD TV 2,udp://@230.1.2.151:11111
+HGTV 居家樂活頻道,udp://@224.1.4.183:11111
+HGTV 居家樂活頻道,udp://@224.1.4.80:11111
+HITS,udp://@224.1.4.136:11111
+i-Fun動漫台,udp://@230.1.2.223:11111
+i-Fun動漫台,udp://@230.1.2.26:11111
+INULTRA,udp://@230.1.2.145:11111
+INULTRA,udp://@224.1.4.3:11111
+Lifetime,udp://@224.1.4.230:11111
+Lifetime,udp://@230.1.2.64:11111
+LOVE NATURE,udp://@224.1.4.182:11111
+LOVE NATURE,udp://@224.1.4.1:11111
+LUXE TV Channel,udp://@230.1.2.16:11111
+LUXE TV Channel,udp://@230.1.2.176:11111
+My Cinema Europe HD 我的歐洲電影,udp://@230.1.2.129:11111
+Mezzo Live HD,udp://@224.1.4.240:11111
+Mezzo Live HD,udp://@230.1.2.81:11111
+MOD 4K LIVE,udp://@230.1.2.203:11111
+MOD電影推薦內容,udp://@224.1.4.196:11111
+MOD影劇推薦內容,udp://@224.1.4.102:11111
+MOD影劇推薦內容,udp://@224.1.4.160:11111
+MOD影劇推薦內容,udp://@224.1.4.98:11111
+momo1台,udp://@224.1.4.229:11111
+momo1台,udp://@230.1.2.63:11111
+momo2台,udp://@224.1.4.217:11111
+momo2台,udp://@230.1.2.90:11111
+MTV Live,udp://@230.1.2.246:11111
+MTV Live,udp://@230.1.2.86:11111
+MTV綜合電視台,udp://@230.1.2.231:11111
+MTV綜合電視台,udp://@230.1.2.43:11111
+NBA動態,udp://@224.1.4.144:11111
+NHK新聞資訊台,udp://@224.1.4.137:11111
+Nice TV 靖天歡樂台,udp://@224.1.4.105:11111
+Nice TV 靖天歡樂台,udp://@230.1.2.241:11111
+Nickelodeon Asia(尼克兒童頻道),udp://@224.1.4.249:11111
+Nick Jr.,udp://@224.1.4.179:11111
+Nick Jr.,udp://@224.1.4.45:11111
+Nick Jr.,udp://@224.1.4.58:11111
+PET CLUB TV,udp://@224.1.4.124:11111
+PET CLUB TV,udp://@230.1.2.130:11111
+ROCK Entertainment,udp://@224.1.4.131:11111
+ROCK Entertainment,udp://@224.1.4.14:11111
+ROCK Extreme,udp://@224.1.4.146:11111
+ROCK Extreme,udp://@224.1.4.99:11111
+Smart知識台,udp://@224.1.4.171:11111
+Smart知識台,udp://@224.1.4.22:11111
+TaiwanPlus,udp://@230.1.2.210:11111
+TaiwanPlus,udp://@230.1.2.30:11111
+TechStorm,udp://@224.1.4.11:11111
+TECHStorm,udp://@230.1.2.159:11111
+時尚頻道,udp://@230.1.2.25:11111
+TRACE Sport Stars,udp://@224.1.4.242:11111
+TRACE Sport Stars,udp://@230.1.2.84:11111
+TRACE Urban,udp://@224.1.4.241:11111
+TRACE Urban,udp://@230.1.2.82:11111
+Travel Channel,udp://@230.1.2.166:11111
+Travel Channel,udp://@230.1.2.4:11111
+TV5MONDE STYLE HD,udp://@224.1.4.108:11111
+TV5MONDE STYLE HD,udp://@224.1.4.208:11111
+TV5MONDE,udp://@224.1.4.148:11111
+TV5MONDE,udp://@224.1.4.16:11111
+TVBS,udp://@224.1.4.153:11111
+TVBS,udp://@224.1.4.24:11111
+TVBS歡樂台,udp://@224.1.4.154:11111
+TVBS歡樂台,udp://@224.1.4.2:11111
+TVBS新聞台,udp://@224.1.4.13:11111
+TVBS新聞台,udp://@224.1.4.152:11111
+TVBS精采台,udp://@230.1.2.225:11111
+TVBS精采台,udp://@230.1.2.35:11111
+tvN,udp://@224.1.4.111:11111
+tvN,udp://@230.1.2.174:11111
+人間衛視,udp://@224.1.4.89:11111
+人間衛視,udp://@230.1.2.193:11111
+八大優頻道,udp://@224.1.4.86:11111
+八大優頻道,udp://@230.1.2.239:11111
+三立戲劇台,udp://@230.1.2.232:11111
+三立戲劇台,udp://@230.1.2.44:11111
+三立財經新聞台,udp://@230.1.2.191:11111
+三立財經新聞台,udp://@230.1.2.21:11111
+三立綜合台,udp://@230.1.2.192:11111
+三立綜合台,udp://@230.1.2.208:11111
+三立綜合台,udp://@230.1.2.22:11111
+大立電視台,udp://@224.1.4.142:11111
+大立電視台,udp://@224.1.4.73:11111
+大愛電視,udp://@224.1.4.54:11111
+大愛電視,udp://@230.1.2.190:11111
+大愛二台,udp://@230.1.2.199:11111
+大愛二台,udp://@230.1.2.29:11111
+中信兄弟4K多視角,udp://@224.1.4.127:11111
+中視,udp://@224.1.4.10:11111
+中視,udp://@230.1.2.228:11111
+中視經典台,udp://@224.1.4.219:11111
+中視經典台,udp://@224.1.4.33:11111
+中視菁采台,udp://@230.1.2.224:11111
+中視菁采台,udp://@230.1.2.34:11111
+中視新聞台,udp://@224.1.4.252:11111
+中視新聞台,udp://@224.1.4.50:11111
+公視,udp://@224.1.4.53:11111
+公視,udp://@230.1.2.230:11111
+公視2台,udp://@230.1.2.185:11111
+公視3台,udp://@224.1.4.228:11111
+公視3台,udp://@230.1.2.62:11111
+公視台語台,udp://@230.1.2.31:11111
+歷史頻道,udp://@230.1.2.216:11111
+歷史頻道,udp://@230.1.2.36:11111
+天天電視台,udp://@224.1.4.29:11111
+天天電視台,udp://@230.1.2.245:11111
+世界羽球雜誌,udp://@224.1.4.117:11111
+世界羽球雜誌,udp://@224.1.4.191:11111
+東森購物1台,udp://@224.1.4.163:11111
+東森購物1台,udp://@230.1.2.73:11111
+東森購物2台,udp://@224.1.4.168:11111
+東森購物2台,udp://@230.1.2.45:11111
+東森購物3台,udp://@224.1.4.169:11111
+東森購物3台,udp://@230.1.2.171:11111
+東森購物3台,udp://@230.1.2.8:11111
+東森購物4台,udp://@224.1.4.176:11111
+東森購物4台,udp://@230.1.2.95:11111
+東森購物5台,udp://@230.1.2.33:11111
+半島英語新聞台Al Jazeera English,udp://@230.1.2.128:11111
+CLASSICA HD,udp://@224.1.4.74:11111
+CLASSICA HD,udp://@230.1.2.139:11111
+台視,udp://@224.1.4.8:11111
+台視,udp://@230.1.2.227:11111
+台視財經台,udp://@224.1.4.248:11111
+台視財經台,udp://@224.1.4.32:11111
+台視綜合台,udp://@224.1.4.170:11111
+台視綜合台,udp://@224.1.4.31:11111
+台視新聞台,udp://@224.1.4.215:11111
+台視新聞台,udp://@230.1.2.99:11111
+台灣電視劇,udp://@224.1.4.62:11111
+台灣戲劇台,udp://@230.1.2.154:11111
+正德電視台,udp://@224.1.4.195:11111
+正德電視台,udp://@224.1.4.95:11111
+民視,udp://@224.1.4.6:11111
+民視,udp://@230.1.2.226:11111
+民視台灣台,udp://@224.1.4.227:11111
+民視台灣台,udp://@230.1.2.61:11111
+民視第一台,udp://@224.1.4.218:11111
+民視第一台,udp://@224.1.4.77:11111
+民視新聞台,udp://@224.1.4.97:11111
+民視新聞台,udp://@230.1.2.155:11111
+生命電視台,udp://@224.1.4.93:11111
+生命電視台,udp://@230.1.2.187:11111
+龍華電影,udp://@224.1.4.251:11111
+龍華電影,udp://@224.1.4.36:11111
+龍華動畫,udp://@224.1.4.109:11111
+龍華動畫,udp://@224.1.4.180:11111
+龍華戲劇,udp://@224.1.4.41:11111
+龍華戲劇,udp://@230.1.2.149:11111
+龍華經典,udp://@224.1.4.172:11111
+龍華經典,udp://@224.1.4.44:11111
+龍華洋片,udp://@224.1.4.37:11111
+龍華洋片,udp://@230.1.2.211:11111
+龍華偶像,udp://@224.1.4.39:11111
+龍華偶像,udp://@230.1.2.156:11111
+龍華影劇,udp://@230.1.2.167:11111
+龍華影劇,udp://@230.1.2.5:11111
+Asian Food Network 亞洲美食頻道,udp://@230.1.2.233:11111
+Asian Food Network 亞洲美食頻道,udp://@230.1.2.85:11111
+亞洲旅遊台,udp://@224.1.4.34:11111
+亞洲旅遊台,udp://@230.1.2.175:11111
+亞洲綜合台,udp://@224.1.4.209:11111
+亞洲綜合台,udp://@224.1.4.78:11111
+Warner TV,udp://@224.1.4.234:11111
+Warner TV,udp://@230.1.2.68:11111
+華藝MBC綜合台,udp://@224.1.4.130:11111
+華藝MBC綜合台,udp://@230.1.2.1:11111
+華藝台灣台,udp://@224.1.4.185:11111
+華藝台灣台,udp://@224.1.4.71:11111
+華藝影劇台,udp://@230.1.2.17:11111
+華藝影劇台,udp://@230.1.2.200:11111
+華視,udp://@224.1.4.12:11111
+華視,udp://@230.1.2.229:11111
+華視教育體育文化台,udp://@224.1.4.223:11111
+華視教育體育文化台,udp://@224.1.4.96:11111
+華視新聞資訊台,udp://@224.1.4.55:11111
+華視新聞資訊台,udp://@230.1.2.248:11111
+華藏衛視,udp://@224.1.4.181:11111
+華藏衛視,udp://@224.1.4.90:11111
+好消息衛星電視台,udp://@224.1.4.4:11111
+好消息衛星電視台,udp://@230.1.2.165:11111
+佛衛電視慈悲台,udp://@224.1.4.178:11111
+佛衛電視慈悲台,udp://@224.1.4.84:11111
+緯來精采台,udp://@224.1.4.222:11111
+緯來精采台,udp://@230.1.2.72:11111
+DaVinCi Learning達文西頻道,udp://@224.1.4.233:11111
+DaVinCi Learning達文西頻道,udp://@230.1.2.67:11111
+國會頻道1,udp://@224.1.4.173:11111
+國會頻道1,udp://@230.1.2.41:11111
+國會頻道2,udp://@224.1.4.174:11111
+國會頻道2,udp://@230.1.2.42:11111
+幸福空間居家台,udp://@224.1.4.123:11111
+幸福空間居家台,udp://@230.1.2.141:11111
+ETtoday綜合台,udp://@224.1.4.59:11111
+采昌影劇台,udp://@224.1.4.221:11111
+采昌影劇台,udp://@230.1.2.71:11111
+非凡新聞台,udp://@224.1.4.158:11111
+非凡新聞台,udp://@230.1.2.92:11111
+信吉電視台,udp://@230.1.2.247:11111
+信吉電視台,udp://@230.1.2.93:11111
+信吉藝文台,udp://@230.1.2.182:11111
+信吉藝文台,udp://@230.1.2.28:11111
+冠軍電視台,udp://@224.1.4.224:11111
+冠軍電視台,udp://@230.1.2.74:11111
+客家電視,udp://@224.1.4.17:11111
+客家電視,udp://@224.1.4.201:11111
+美亞電影台,udp://@224.1.4.91:11111
+美亞電影台,udp://@230.1.2.143:11111
+美好1台,udp://@224.1.4.167:11111
+美好1台,udp://@224.1.4.67:11111
+美好2台,udp://@224.1.4.145:11111
+美食星球頻道,udp://@224.1.4.19:11111
+美食星球頻道,udp://@230.1.2.178:11111
+視納華仁紀實台,udp://@224.1.4.206:11111
+視納華仁紀實台,udp://@230.1.2.96:11111
+原住民族電視台,udp://@224.1.4.76:11111
+原住民族電視台,udp://@230.1.2.235:11111
+愛爾達亞運1台,udp://@224.1.4.129:11111
+愛爾達亞運1台,udp://@224.1.4.94:11111
+愛爾達亞運2台,udp://@230.1.2.170:11111
+愛爾達亞運2台,udp://@230.1.2.7:11111
+愛爾達亞運3台,udp://@230.1.2.234:11111
+愛爾達亞運3台,udp://@230.1.2.87:11111
+愛爾達體育1台,udp://@224.1.4.112:11111
+愛爾達體育1台,udp://@230.1.2.131:11111
+愛爾達體育2台,udp://@230.1.2.237:11111
+愛爾達體育2台,udp://@230.1.2.88:11111
+愛爾達體育3台,udp://@224.1.4.193:11111
+愛爾達體育3台,udp://@230.1.2.91:11111
+愛爾達體育4台,udp://@224.1.4.7:11111
+愛爾達體育4台,udp://@230.1.2.146:11111
+愛爾達綜合台,udp://@224.1.4.114:11111
+愛爾達綜合台,udp://@230.1.2.133:11111
+愛爾達影劇台,udp://@224.1.4.113:11111
+愛爾達影劇台,udp://@230.1.2.132:11111
+唯心電視台,udp://@224.1.4.200:11111
+唯心電視台,udp://@230.1.2.80:11111
+曼迪日本台,udp://@230.1.2.242:11111
+曼迪日本台,udp://@230.1.2.89:11111
+Medici-arts,udp://@224.1.4.26:11111
+Medici-arts,udp://@230.1.2.180:11111
+博斯無限二台,udp://@224.1.4.207:11111
+博斯無限二台,udp://@230.1.2.97:11111
+博斯無限台,udp://@224.1.4.46:11111
+博斯無限台,udp://@230.1.2.215:11111
+博斯網球台,udp://@224.1.4.66:11111
+博斯網球台,udp://@230.1.2.198:11111
+博斯運動一台,udp://@224.1.4.48:11111
+博斯運動一台,udp://@230.1.2.158:11111
+博斯運動二台,udp://@224.1.4.5:11111
+博斯運動二台,udp://@230.1.2.196:11111
+博斯高球一台,udp://@224.1.4.49:11111
+博斯高球一台,udp://@230.1.2.183:11111
+博斯高球二台,udp://@224.1.4.47:11111
+博斯高球二台,udp://@230.1.2.197:11111
+博斯魅力網,udp://@224.1.4.110:11111
+博斯魅力網,udp://@224.1.4.250:11111
+壹電視電影台,udp://@230.1.2.189:11111
+壹電視電影台,udp://@230.1.2.19:11111
+壹電視資訊綜合台,udp://@230.1.2.220:11111
+壹電視資訊綜合台,udp://@230.1.2.40:11111
+壹電視新聞台,udp://@230.1.2.18:11111
+壹電視新聞台,udp://@230.1.2.188:11111
+富立電視台,udp://@224.1.4.138:11111
+富立電視台,udp://@224.1.4.35:11111
+智林體育台,udp://@224.1.4.238:11111
+智林體育台,udp://@230.1.2.78:11111
+頻道總表,udp://@224.1.4.116:11111
+頻道總表,udp://@230.1.2.140:11111
+韓國娛樂台KMTV,udp://@224.1.4.232:11111
+韓國娛樂台KMTV,udp://@230.1.2.66:11111
+新唐人亞太台,udp://@224.1.4.165:11111
+新唐人亞太台,udp://@230.1.2.50:11111
+滾動力 rollor,udp://@224.1.4.236:11111
+滾動力 rollor,udp://@230.1.2.70:11111
+罪案偵緝頻道,udp://@224.1.4.85:11111
+罪案偵緝頻道,udp://@230.1.2.238:11111
+靖天日本台,udp://@224.1.4.103:11111
+靖天日本台,udp://@230.1.2.221:11111
+靖天卡通台,udp://@224.1.4.25:11111
+靖天卡通台,udp://@230.1.2.162:11111
+靖天電影台,udp://@224.1.4.42:11111
+靖天電影台,udp://@230.1.2.243:11111
+靖天戲劇台,udp://@224.1.4.40:11111
+靖天戲劇台,udp://@230.1.2.163:11111
+靖天育樂台,udp://@224.1.4.28:11111
+靖天育樂台,udp://@230.1.2.194:11111
+KLT-靖天國際台,udp://@224.1.4.106:11111
+KLT-靖天國際台,udp://@224.1.4.220:11111
+靖天映畫,udp://@224.1.4.28:11111
+靖天映畫,udp://@230.1.2.236:11111
+靖天資訊台,udp://@224.1.4.30:11111
+靖天資訊台,udp://@230.1.2.184:11111
+靖天綜合台,udp://@224.1.4.104:11111
+靖天綜合台,udp://@224.1.4.199:11111
+靖洋卡通台Nice Bingo,udp://@224.1.4.23:11111
+靖洋卡通台Nice Bingo,udp://@230.1.2.161:11111
+靖洋戲劇台,udp://@224.1.4.107:11111
+靖洋戲劇台,udp://@230.1.2.240:11111
+頻道總表,udp://@230.1.2.107:11111
+頻道總表,udp://@230.1.2.108:11111
+影迷數位電影台,udp://@230.1.2.20:11111
+影迷數位紀實台,udp://@224.1.4.226:11111
+影迷數位紀實台,udp://@230.1.2.23:11111
+寰宇HD綜合台,udp://@224.1.4.87:11111
+寰宇HD綜合台,udp://@230.1.2.148:11111
+寰宇財經台,udp://@224.1.4.56:11111
+寰宇財經台,udp://@230.1.2.249:11111
+寰宇新聞台,udp://@224.1.4.51:11111
+寰宇新聞台,udp://@230.1.2.252:11111
+寰宇新聞台灣台,udp://@224.1.4.101:11111
+寰宇新聞台灣台,udp://@230.1.2.147:11111
+鏡電視新聞台,udp://@224.1.4.126:11111
+鏡電視新聞台,udp://@230.1.2.138:11111
+賽事,udp://@224.1.5.71:11111/
+
+MODAV,#genre#
+彩虹E台,udp://@224.1.4.63:11111/
+彩虹E台,udp://@224.1.4.141:11111/
+彩虹電影,udp://@224.1.4.64:11111/
+彩虹電影,udp://@224.1.4.164:11111/
+K頻道,udp://@224.1.4.65:11111/
+K頻道,udp://@224.1.4.175:11111/
+松視1台,udp://@224.1.4.68:11111
+松視2台,udp://@224.1.4.69:11111/
+松視2台,udp://@224.1.4.149:11111/
+松視3台,udp://@224.1.4.70:11111/
+松視3台,udp://@224.1.4.253:11111/
+HAPPY,udp://@224.1.4.72:11111/
+HAPPY,udp://@224.1.4.186:11111/
+驚豔成人電影台,udp://@224.1.4.204:11111
+香蕉台,udp://@224.1.4.205:11111
+JStar極限台電影頻道,udp://@230.1.2.152:11111
+
+港澳,#genre#
+澳視葡文,http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
+鳳凰中文,http://60.250.216.209:8570/http/61.67.128.130:8078/hls/21/80/.m3u8
+澳視澳門,http://61.244.22.4/ch1/ch1.live/index.m3u8
+澳視葡文,http://61.244.22.4/ch2/ch2.live/index.m3u8
+澳門macau,http://61.244.22.4/ch3/ch3.live/index.m3u8
+澳視澳門,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
+澳視葡文,http://61.244.22.5/ch2/ch2.live/chunklist.m3u8
+澳門Macau,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
+澳門蓮花衛視,http://nettvpro.live/hls/lotustv.php
+ChannelNewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+鳳凰資訊,http://60.250.216.209:8577/http/61.67.128.130:8078/hls/20/80/.m3u8
+
+
+新聞,#genre#
+FOX新聞,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+NHK BSP,http://125.227.210.55:60116/VideoInput/play.ts
+CNN new,http://125.227.210.55:8166/VideoInput/play.ts
+三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
+TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+三立LIVE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+三立新聞,http://211.23.114.106:8507/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
+中天新聞,http://211.23.114.106:8501/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
+中天新聞,http://www.terrykang.xyz:35455/youtube/oIgbl7t0S_w
+中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+台視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+民視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+東森財經,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+東森新聞,http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+年代新聞,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
+TVBS新聞,http://125.227.210.55:8186/VideoInput/play.ts
+CNBC,http://125.227.210.55:8152/VideoInput/play.ts
+民視新聞,http://125.227.210.55:8157/VideoInput/play.ts
+
+戲劇知識綜合,#genre#
+中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
+中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
+華視,http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
+原民台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
+幸福空間,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+國家地理,http://211.23.114.106:8509/http/61.221.81.94:8088/hls/61/803/ch01.m3u8
+Discovery,http://211.23.114.106:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
+緯來戲劇,http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
+緯來日本,http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
+八大第一,http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
+八大綜合,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
+八大戲劇,http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
+東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
+東森綜合,http://220.134.196.147:9553/.m3u8
+TVBS歡樂,http://125.227.210.55:50619/VideoInput/play.ts
+公視台語台,http://www.terrykang.xyz:35455/youtube/quwqlazU-c8
+大愛2,http://gg.gg/HeNeiIPTV-Da_Ai_Er_Tai_HD
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+美國中文,https://jpts.sinovision.net/livestream.m3u8
+台視,http://125.227.210.55:8158/VideoInput/play.ts
+民視,rtmp://f13h.mine.nu/sat/tv051
+台視,rtmp://f13h.mine.nu/sat/tv071
+中視,rtmp://f13h.mine.nu/sat/tv091
+華視,rtmp://f13h.mine.nu/sat/tv111
+TVBS新聞,rtmp://f13h.mine.nu/sat/tv551
+TVBS歡樂,rtmp://f13h.mine.nu/sat/tv421
+東森財經新聞,rtmp://f13h.mine.nu/sat/tv571
+東森超視,rtmp://f13h.mine.nu/sat/tv521
+緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
+ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
+緯來日本,rtmp://f13h.mine.nu/sat/tv771
+MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
+ELTA體育2,rtmp://f13h.mine.nu/sat/md011
+ELEVEN2,rtmp://f13h.mine.nu/sat/md021
+博斯網球,rtmp://f13h.mine.nu/sat/md031
+ELTA體育3,rtmp://f13h.mine.nu/sat/md041
+ELTA體育1,rtmp://f13h.mine.nu/sat/md051
+
+輪播,#genre#
+輪播電影1,http://epg.112114.xyz/douyu/20415
+輪播電影3,http://epg.112114.xyz/douyu/122402
+輪播電影4,http://epg.112114.xyz/douyu/85894
+輪播電影5,http://epg.112114.xyz/douyu/263824
+輪播電影6,http://epg.112114.xyz/douyu/747764
+輪播電影9,http://epg.112114.xyz/douyu/323876
+輪播電影10,http://epg.112114.xyz/douyu/6140589
+輪播電影11,http://epg.112114.xyz/douyu/8770422
+輪播電影12,http://epg.112114.xyz/douyu/2436390
+輪播電影13,http://epg.112114.xyz/douyu/218859
+輪播電影14,http://epg.112114.xyz/douyu/36337
+輪播電影18,http://epg.112114.xyz/douyu/9292492
+輪播電影22,http://epg.112114.xyz/douyu/252802
+輪播電影25,http://epg.112114.xyz/douyu/8945323
+輪播電影26,http://epg.112114.xyz/douyu/2516864
+輪播電影28,http://epg.112114.xyz/douyu/4332
+輪播電影29,http://epg.112114.xyz/douyu/9651304
+輪播電影31,http://epg.112114.xyz/douyu/8814650
+輪播電影33,http://epg.112114.xyz/douyu/52787
+輪播電影35,http://epg.112114.xyz/douyu/1165374
+輪播電影40,http://epg.112114.xyz/douyu/1226741
+輪播電影45,http://epg.112114.xyz/douyu/9067836
+輪播電影46,http://epg.112114.xyz/douyu/9817729
+
+日本,#genre#
+TokyoMX1,http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+TokyoMX2,http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+MXLive,http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+ウェザーニュース,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+WeatherNews,http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+ShopChannel,https://stream3.shopch.jp/HLS/master.m3u8
+Jsport,http://redlabmcdn.s.llnwi.net/nv02/bs15hd/playlist.m3u8
+日本購物1,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+日本購物2,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
+日本購物3,http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
+日本購物4,http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
+
+
+
+
+韓國,#genre#
+SBSCJB,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+KNNSBS綜藝,http://211.220.195.200:1935/live/mp4:KnnTV.sdp/chunklist_w762151441.m3u8
+KBCSBS綜藝,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+TJBSBS綜藝,http://1.245.74.5:1935/live/tv/.m3u8
+MBC綜藝頻道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+NBS農業廣播,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+EBS第一頻道,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+EBS第二頻道,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+EBS加一頻道,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+EBS加二頻道,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+韓國EBS兒童頻道,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+朝鮮中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+韓國阿里郎WORLD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+LuxuryWorld,http://nano.teleservice.su:8080/hls/luxury.m3u8
+韓國KCTV,http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
+KBSLiveCamDokDo,http://kbs-dokdo.gscdn.com/dokdo_300/definst/dokdo_300.stream/playlist.m3u8
+BBS불교방송,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
+Korea:arirang1,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
+Korea:arirang3,http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
+Arirang(KR)(Opt-2),http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8
+ArirangTVKoreaEN,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+국악방송,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+
+中國衛視,#genre#
+浙江衛視,http://61.219.170.95:18534/.m3u8
+湖南衛視,http://61.219.170.95:18536/.m3u8
+廈門衛視,http://61.219.170.95:18631/.m3u8
+CCTV4,http://61.219.170.95:18633/.m3u8
+
+
+
+MOVIE簡中,#genre#
+扶桑花女孩,https://vip.lz-cdn7.com/20230223/14473_34758120/index.m3u8
+醜女大翻身,https://vip.lz-cdn7.com/20230223/14471_0a1ee6d8/index.m3u8
+聊齋畫壁,https://vip.lz-cdn7.com/20230226/14577_538d24e5/index.m3u8
+
+
+
+
+GOOD系列,#genre#
+GOOD好消息,http://live.streamingfast.net/osmflivech1.m3u8
+GOOD2真理台,http://live.streamingfast.net/osmflivech2.m3u8
+GOOD真情部落格,http://live.streamingfast.net/osmflivech3.m3u8
+GOOD共享觀點,http://live.streamingfast.net/osmflivech5.m3u8
+GOOD經典音樂,http://live.streamingfast.net/osmflivech6.m3u8
+GOOD禱告大軍,http://live.streamingfast.net/osmflivech7.m3u8
+GOOD幸福學堂,http://live.streamingfast.net/osmflivech8.m3u8
+GOOD愛+好醫生,http://live.streamingfast.net/osmflivech9.m3u8
+GOOD烤箱讀書會,http://live.streamingfast.net/osmflivech10.m3u8
+GOOD我們EYE旅行,http://live.streamingfast.net/osmflivech11.m3u8
+GOOD孫叔唱副歌,http://live.streamingfast.net/osmflivech12.m3u8
+GOOD健康新煮流,http://live.streamingfast.net/osmflivech13.m3u8
+GOOD真情部落格,http://live.streamingfast.net/osmflivech14.m3u8
+GOOD真情之夜,http://live.streamingfast.net/osmflivech15.m3u8
+GOOD葉光明,http://live.streamingfast.net/osmflivech16.m3u8
+GOOD大衛鮑森,http://live.streamingfast.net/osmflivech17.m3u8
+GOOD國際講員,http://live.streamingfast.net/osmflivech18.m3u8
+GOOD共享觀點,http://live.streamingfast.net/osmflivech19.m3u8
+GOOD恩典時分,http://live.streamingfast.net/osmflivech20.m3u8
+GOOD華語講員,http://live.streamingfast.net/osmflivech21.m3u8
+GOOD職場新視野,http://live.streamingfast.net/osmflivech22.m3u8
+GOOD空中主日學生活,http://live.streamingfast.net/osmflivech23.m3u8
+GOOD劉三講古,http://live.streamingfast.net/osmflivech24.m3u8
+GOOD福氣人生,http://live.streamingfast.net/osmflivech25.m3u8
+GOOD空中主日學查經,http://live.streamingfast.net/osmflivech26.m3u8
+GOOD空中聖經學院,http://live.streamingfast.net/osmflivech27.m3u8
+GOOD詩歌精選,http://live.streamingfast.net/osmflivech28.m3u8
+GOOD經典音樂河,http://live.streamingfast.net/osmflivech29.m3u8
+GOOD敬拜讚美音樂,http://live.streamingfast.net/osmflivech30.m3u8
+GOOD福音佈道音樂會,http://live.streamingfast.net/osmflivech31.m3u8
+GOOD特會系列：禱告與轉化,http://live.streamingfast.net/osmflivech32.m3u8
+GOOD特會系列：研經培靈,http://live.streamingfast.net/osmflivech33.m3u8
+GOOD天國文化特會,http://live.streamingfast.net/osmflivech34.m3u8
+GOOD天父的心,http://live.streamingfast.net/osmflivech35.m3u8
+GOOD特會系列：醫治釋放,http://live.streamingfast.net/osmflivech36.m3u8
+GOOD特會系列：以色列專題,http://live.streamingfast.net/osmflivech37.m3u8
+GOOD特會系列：末世信息,http://live.streamingfast.net/osmflivech38.m3u8
+GOOD全家歸主有良方,http://live.streamingfast.net/osmflivech39.m3u8
+GOOD轉轉發現愛,http://live.streamingfast.net/osmflivech40.m3u8
+GOOD幸福學堂,http://live.streamingfast.net/osmflivech41.m3u8
+GOOD愛+醫生,http://live.streamingfast.net/osmflivech42.m3u8
+GOOD我們EYE旅行,http://live.streamingfast.net/osmflivech43.m3u8
+GOOD烤箱讀書會,http://live.streamingfast.net/osmflivech44.m3u8
+GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
+GOOD少年體驗隊,http://live.streamingfast.net/osmflivech46.m3u8
+GOOD蒙福人生,http://live.streamingfast.net/osmflivech47.m3u8
+GOOD小小遊學生,http://live.streamingfast.net/osmflivech48.m3u8
+
+
+台彩虹頻道,#genre#
+JStar極限台電影頻道,udp://@230.1.2.152:11111
+JStar極限台電影頻道,udp://@230.1.2.32:11111
+K頻道,udp://@224.1.4.175:11111
+K頻道,udp://@224.1.4.65:11111
+松視1台,udp://@224.1.4.68:11111
+松視1台,udp://@230.1.2.142:11111
+松視2台,udp://@224.1.4.149:11111
+松視2台,udp://@224.1.4.69:11111
+松視3台,udp://@224.1.4.253:11111
+松視3台,udp://@224.1.4.70:11111
+香蕉台,udp://@224.1.4.205:11111
+香蕉台,udp://@230.1.2.94:11111
+彩虹 MOVIE,udp://@224.1.4.164:11111
+彩虹 MOVIE,udp://@224.1.4.64:11111
+彩虹E台,udp://@224.1.4.141:11111
+彩虹E台,udp://@224.1.4.63:11111
+潘朵啦高畫質玩美台,udp://@230.1.2.219:11111
+潘朵啦高畫質玩美台,udp://@230.1.2.39:11111
+驚豔成人電影台,udp://@224.1.4.204:11111
+驚豔成人電影台,udp://@230.1.2.27:11111
+
+
+
+📺中國情色,#genre#
+parse=1
+ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
+湯唯《色·戒》高清精華床戲片段剪輯- 色戒,https://th.spankbang.com/6ziq4/video/porn
+china emperor sex,https://www.xvideos.com/video.kivadfmeaac/china_emperor_sex
+淫龍鬥嬌鳳,https://www.xvideos.com/video.hfohffb737c/_
+倩女銷魂2,https://www.xvideos.com/video.hdcbpv9958/_-_and_2
+倩女銷魂,https://www.xvideos.com/video.helhadvd1b6/qiannvxiaohun
+趕屍艷譚,https://www.xvideos.com/video.hbcbhbd41df/ghoul_sex_squad
+浪女迷魂记,https://www.xvideos.com/video.edchhf3574/_
+台灣阿賢水電工,https://www.xvideos.com/video.lkiift376d/taiwan_porn_star_shuan-shuan
+宣宣日記,https://www.xvideos.com/video.icoadaf5a/my_asian_lover
+Hongkong beautiful fuck,https://www.xvideos.com/video.fccelm0900/hongkong_beautiful_fuck
+taiwan vedios,https://www.xvideos.com/video.ivhtffv4711/taiwan_vedios
+亞洲,https://www.xvideos.com/video.poulaf7595/ae_...a_r_r_aeeur_a_2
+金瓶艷史,https://www.xvideos.com/video.helucakf381/jinpingyanshi
+倩女性花開,https://www.xvideos.com/video.helhaooc6df/qiannvzinghuakai
+清宫性史,https://www.xvideos.com/video.ifihmvd82f4/_
+好色妖姬杨贵妃,https://www.xvideos.com/video.ifihmch32a8/_
+古代,https://www.xnxx3.com/video-tf8v1db/_
+國產 哈尔滨美女,https://www.xvideos.com/video.iupuvvfe21d/_
+FAPADOO 4K - 来自上海的妓女不戴套被操,https://www.xvideos.com/video.kfkkpov5ad1/fapadoo_4k_-_shanghai_hooker_getting_fucked_without_a_condom
+FAPADOO 4K - 亚洲继母不戴套做爱,https://www.xvideos.com/video.kfkhfohc276/fapadoo_4k_-_asian_step_sister_fucking_without_a_condom
+FAPADOO 4K--大鸡巴干了三个不同的荡妇,https://www.xvideos.com/video.kfitkioda8c/fapadoo_4k_-_large_cock_fucking_three_different_sluts
+FAPADOO 4K - 继女得到一个面部射精的机会,https://www.xvideos.com/video.kfkhfkf11dc/fapadoo_4k_-_step_daughter_gets_a_facial_beauty_treatment
+FAPADOO 4K - 饥渴的继女不戴避孕套做爱,https://www.xvideos.com/video.kfkhepo7fcd/fapadoo_4k_-_horny_step_without_a_condom
+Great Japaneses Orgy,https://www.xvideos.com/video.hkdccvk4fca/great_japaneses_orgy_
+Horny guys fuck hard ten Japanese chicks in rough group sex,https://www.xvideos.com/video.kbieulh99a0/horny_guys_fuck_hard_ten_japanese_chicks_in_rough_group_sex
+Japanese Blowjob Compilation Vol 55,https://www.xvideos.com/video.uivhhko611b/japanese_blowjob_compilation_vol_55
+北投知名溫泉湯旅這才是我要的炮湯-小情侶後入口爆,https://ch.porncvd.com/javs/65fa6f2fb780fc724828d571.html
+北投知名溫泉湯旅大奶女與朋友泡湯完整版高畫質,https://ch.porncvd.com/javs/65fa687f16961e659f67961c.html
+北投知名溫泉湯旅小情侶效率好馬上開始調戲打炮,https://ch.porncvd.com/javs/660128198945b04ca44b7a23.html
+北投知名温泉汤旅纹身哥和极品身材的美少妇啪啪外流,https://rromd.com/vodplay/58372.shtml
+小哥哥艾理「军茶妹,https://www.cgtt.me/archives/32830/
+大奶軍茶妹 無套抽插 確實騷 續攤第二砲 求內射,https://18porn.cc/video/28440.html
+小哥哥艾里 蘇離Part3 性愛影片外流,https://18porn.cc/video/28580.html
+台灣綜藝av 小哥哥艾里最新流出 Part2,https://iwant-sex.com/video/28435.html
+小哥哥艾理外流 36D大奶蘇離性愛影片流出 10分鐘完整版,https://18porn.cc/video/29193.html
+小哥哥艾里最新流出 Part2,https://18porn.cc/video/28435.html
+台灣av 小哥哥艾里01,https://18porn.cc/video/28418.html
+台灣av 小哥哥艾里02,https://18porn.cc/video/28426.html
+小哥哥艾里外流 約炮配對最愛倪,https://18porn.cc/video/29704.html
+小哥哥艾里外流 ktv後入大奶波尼,https://18porn.cc/video/29125.html
+小哥哥艾理外流 我弟很猛,https://18porn.cc/video/28943.html
+小哥哥艾里 蘇離Part2 性愛影片外流,https://18porn.cc/video/28585.html
+台灣本土自拍 小哥哥艾理外流 仙女她媽,https://18porn.cc/video/28643.html
+台灣綜藝av影片 小哥哥艾里外流 大人版配對 以若,https://18porn.cc/video/28877.html
+小哥哥艾里外流 後入大腿刺青妹,https://18porn.cc/video/28972.html
+台灣綜藝av 小哥哥艾里 蘇離Part4 性愛影片外流,https://18porn.cc/video/28581.html
+台灣綜藝av 小哥哥艾里 姊妹雙飛 真槍實彈 不看可惜,https://18porn.cc/video/28448.html
+小哥哥艾里外流 大人版配對 3p姐妹花,https://18porn.cc/video/28876.html
+小哥哥艾里外流 台灣明日花綺羅 大人版配對,https://18porn.cc/video/28645.html
+小哥哥艾里外流 梨花渿上集,https://18porn.cc/video/28611.html
+小哥哥艾里外流 梨花渿下集,https://18porn.cc/video/28612.html
+小哥哥艾里外流 一男大戰兩女多人運動 最後爽口爆,https://18porn.cc/video/28589.html
+小哥哥艾里外流 DJ Sakura Fans17外流,https://18porn.cc/video/29361.html
+小哥哥艾理外流 新加坡DJ-SAKURA 蘇櫻花 VS 克里斯,https://18porn.cc/video/29034.html
+台灣本土自拍 小哥哥艾理外流 ktv大戰36D大奶蘇離性愛影片外流,https://18porn.cc/video/28750.html
+台灣小哥哥艾理外流 街頭採訪3p大戰情侶,https://18porn.cc/video/28738.html
+攝影師套路剛出來兼職的大二美女模特,https://18porn.cc/video/18095.html
+攝影大師淺規則 大尺度私拍 大奶子美女模特被大師猛摳陰道,https://18porn.cc/video/12441.html
+淫攝師潛規則漂亮美女模特啪啪,https://18porn.cc/video/7497.html
+基隆36E 大奶大二學妹 主動找我啪啪啪,https://18porn.cc/video/2613.html
+華裔留學生在家和洋腸男友無套激情啪啪啪,https://18porn.cc/video/5008.html
+颜值不错的韩国大学生妹子和男友公寓啪啪,https://18porn.cc/video/7050.html
+Part1 年齡看著不大的嫩妹子和男友賓館啪啪秀互舔下再操,https://18porn.cc/video/3228.html
+胸大貌美身材一流的極品國模美女酒店大尺度私拍,https://18porn.cc/video/4589.html
+鳳吟鳥唱國模美心 (SS V) 超大尺度視頻流出,https://18porn.cc/video/4804.html
+溪湖糖廠全裸車震,https://www.xnxx3.com/video-dezgtc0/_
+台灣檳榔西施,https://www.xnxx3.com/video-wyd7117/tsung1_nut_taiwan
+
+📺歐美色情1,#genre#
+parse=1
+ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
+Brazzers eu,http://hochu.tv/brazzers-tv-europe.html
+O LaLa,http://hochu.tv/o-la-la.html
+Dorcel,http://hochu.tv/dorcel-tv.html
+Hustler HD,http://hochu.tv/hustler-hd.html
+French,http://hochu.tv/french-lover-tv.html
+Blue Hustler,http://hochu.tv/blue-hustler.html
+FAP anal,http://hochu.tv/fap-tv-anal.html
+Private HD,http://hochu.tv/private-tv.html
+FAP parody,http://hochu.tv/fap-tv-parody.html
+ox-ax HD,http://hochu.tv/oh-ah-hd.html
+XXL,http://hochu.tv/xxl.html
+Redlight HD,http://hochu.tv/redlight-hd.html
+Penthouse,http://hochu.tv/penthouse-2.html
+XY MIX,http://hochu.tv/xy-mix.html
+FAP tenns,http://hochu.tv/fap-tv-teens.html
+FAP lesbian,http://hochu.tv/fap-tv-lesbian.html
+Playboy TV,http://hochu.tv/playboy-tv.html
+Kinoxxx,http://hochu.tv/kinoxxx.html
+XY MAX,http://hochu.tv/xy-max.html
+Babes TV,http://hochu.tv/babes-tv.html
+Vivid red,http://hochu.tv/vivid-red.html
+FAP 2,http://hochu.tv/fap-tv-2.html
+FAP 3,http://hochu.tv/fap-tv-3.html
+FAP 4,http://hochu.tv/fap-tv-4.html
+FAP bbw,http://hochu.tv/fap-tv-bbw.html
+FAP comp,http://hochu.tv/fap-tv-compilation.html
+Barely legal,http://hochu.tv/barely-legal-tv.html
+Extasy HD,http://hochu.tv/extasy-hd.html
+Red lips,http://hochu.tv/red-lips.html
+Waayh,http://hochu.tv/shalun-tv.html
+XY plus,http://hochu.tv/xy-plus.html
+
+彩虹頻道,#genre#
+
+
+
+
+
+加值測試點,#genre#
+
+
+VIP特供,#genre#
+287n1,https://node1.voyeurhouse.com/vh_prod/smil:287.smil/chunklist_b1164000_slen.m3u8?
+446n1,https://node1.voyeurhouse.com/vh_prod/smil:446.smil/chunklist_b1164000_slen.m3u8?
+468n1,https://node1.voyeurhouse.com/vh_prod/smil:468.smil/chunklist_b1164000_slen.m3u8?
+470n1,https://node1.voyeurhouse.com/vh_prod/smil:470.smil/chunklist_b1164000_slen.m3u8?
+472n1,https://node1.voyeurhouse.com/vh_prod/smil:472.smil/chunklist_b1164000_slen.m3u8?
+287n2,https://node2.voyeurhouse.com/vh_prod/smil:287.smil/chunklist_b1164000_slen.m3u8?
+470n2,https://node2.voyeurhouse.com/vh_prod/smil:470.smil/chunklist_b1164000_slen.m3u8?
+472n2,https://node2.voyeurhouse.com/vh_prod/smil:472.smil/chunklist_b1164000_slen.m3u8?
+
+
+
+277n4,https://node4.voyeurhouse.com/vh_prod/smil:277.smil/chunklist_b1164000_slen.m3u8?
+283n4,https://node4.voyeurhouse.com/vh_prod/smil:283.smil/chunklist_b1164000_slen.m3u8?
+287n4,https://node4.voyeurhouse.com/vh_prod/smil:287.smil/chunklist_b1164000_slen.m3u8?
+289n4,https://node4.voyeurhouse.com/vh_prod/smil:289.smil/chunklist_b1164000_slen.m3u8?
+470n4,https://node4.voyeurhouse.com/vh_prod/smil:470.smil/chunklist_b1164000_slen.m3u8?
+
+pornoPROS,#genre#
+Adult : FANTHD1,http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_ellamilano/content/vid01.mp4
+Adult : FANTHD2,http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_anikkaalbrite_tiffanyfox/content/vid01.mp4
+Adult : FANTHD3,http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_caprianderson/content/vid01.mp4
+Adult : FANTHD4,http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_natalieheart_chloefoster/content/vid01.mp4
+Adult : FANTHD5,http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb01/fb01_alicemarch/content/vid01.mp4
+Adult : FANTHD6,http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_hollymichaels/content/vid01.mp4
+Adult : FANTHD7,http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb01/fb01_conniecarter051514/content/vid01.mp4
+Adult : FANTHD7,http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb01/fb01_emilygrey080514/content/vid01.mp4
+Casting1,http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb02/fb02_rachel/content/vid01.mp4
+Casting2,http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb02/fb02_sageevans/content/vid01.mp4
+Casting3,http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb02/fb02_sierraday/content/vid01.mp4
+Casting4,http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb02/fb02_jasminerain/content/vid01.mp4
+Casting5,http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb02/fb02_roxanne/content/vid01.mp4
+Casting6,http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb01/fb01_ashleyadams121014/content/vid01.mp4
+Casting7,http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb01/fb01_dillioncarter121214/content/vid01.mp4
+Povd1,http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_keishagrey061614/content/vid01.mp4
+Povd2,http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_sarai091714/content/vid01.mp4
+Povd3,http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_veronicaradke/content/vid01.mp4
+Povd4,http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_taylorwhyte040714/content/vid01.mp4
+Povd5,http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_sierranevadah080814/content/vid01.mp4
+Povd6,http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_alicegreen082014/content/vid01.mp4
+Povd7,http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_alexisadams/content/vid01.mp4
+Povd8,http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_taylorwhyte121713/content/vid01.mp4
+Povd9,http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_giannanicole051914/content/vid01.mp4
+Tiny 4k 1,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
+Tiny 4k 10,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
+Tiny 4k 11,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
+Tiny 4k 2,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+Tiny 4k 3,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+Tiny 4k 4,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+Tiny 4k 5,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+Tiny 4k 6,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+Tiny 4k 7,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+Tiny 4k 8,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+Tiny 4k 9,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
