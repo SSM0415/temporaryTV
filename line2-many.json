@@ -1,0 +1,37 @@
+{
+    "info": "微信搜索 小伟来了公众号 关注 你懂的",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/SSM0415/temporaryTV/refs/heads/master/TVbox2.txt",
+            "name": "自用線路1-TV"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/SSM0415/temporaryTV/refs/heads/master/avnetwork18x.txt",
+            "name": "自用線路1-AV"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/SSM0415/temporaryTV/refs/heads/master/avnetwork18x1.txt",
+            "name": "自用線路2-AV"
+        },
+
+       { "url": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/20260103.json", "name": "你懂的" },
+
+       { "url": "https://proxy.v2gh.com/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/20260103.json", "name": "你懂的备" },
+
+        {
+            "url": "https://raw.githubusercontent.com/xwyjc/lwang/refs/heads/main/only.json",
+            "name": "🆙到出18+"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/Johnisonn/tvbox/refs/heads/main/etc.json",
+            "name": "阿朵仔AV"
+        }
+  
+    ],
+    "vip": [
+        {
+            "url": "",
+            "name": "默认"
+        }
+    ]
+}
