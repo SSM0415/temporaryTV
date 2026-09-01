@@ -1,4 +1,7 @@
 台灣新聞YT,#genre#
+parse=1
+ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
+
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 三立新聞,https://www.youtube.com/watch?v=iNIy3lMuljU
@@ -23,6 +26,9 @@ JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 ELTA影劇,https://www.chaojidianshi.net/zhibo/gangtaizhibo/aierdayingju.html
 
 MODTEST,#genre#
+parse=1
+ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
+
 amc電影台,udp://@224.1.4.43:11111
 amc電影台,udp://@230.1.2.157:11111
 Animax,udp://@224.1.4.237:11111
@@ -409,6 +415,9 @@ KLT-靖天國際台,udp://@224.1.4.220:11111
 賽事,udp://@224.1.5.71:11111/
 
 MODAV,#genre#
+parse=1
+ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
+
 彩虹E台,udp://@224.1.4.63:11111/
 彩虹E台,udp://@224.1.4.141:11111/
 彩虹電影,udp://@224.1.4.64:11111/
