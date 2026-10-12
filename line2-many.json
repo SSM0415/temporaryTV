@@ -19,6 +19,10 @@
        { "url": "https://proxy.v2gh.com/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/20260103.json", "name": "你懂的备" },
 
         {
+            "url": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/fun.json",
+            "name": "🆙FUN18+"
+        },
+        {
             "url": "https://raw.githubusercontent.com/xwyjc/lwang/refs/heads/main/only.json",
             "name": "🆙到出18+"
         },
