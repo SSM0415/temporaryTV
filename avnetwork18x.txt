@@ -19,8 +19,24 @@
       "changeable": 1
 },
 {"key":"森林資源","name":"森林資源🔪","type":0,"api":"https://beiyong.slapibf.com/api.php/provide/vod/at/xml"},
-{"key":"AIvin","name":"🟣AIvin🔪","type":1,"api":"http://lbapiby.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
-{"key":"黄瓜资源","name":"🟣幸资源站🔪","type":1,"api":"https://xzybb1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
+    {
+      "key": "slyzy",
+      "name": "🦋 湿乐园｜🔞",
+      "type": 1,
+      "api": "https://xxavs.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "滴滴资源",
+      "name": "🦋 滴滴资源｜🔞",
+      "type": 1,
+      "api": "https://api.ddapi.cc/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 {"key":"玉兔资源","name":"🟣玉兔資源🔪","type":1,"api":"https://apiyutu.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"奶香香","name":"🟣奶香香🔪","type":1,"api":"https://Naixxzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"精品资源","name":"🟣精品資源🔪","type":1,"api":"https://www.jingpinx.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -37,9 +53,34 @@
 {"key":"辣椒資源","name":"辣椒資源🔪","type":1,"api":"http://apilj.com/api.php/provide/vod/at/json/"},
 {"key":"桃花资源","name":"桃花资源🔪","type":1,"api":"https://thzy1.me/api.php/provide/vod/"},
 {"key":"鯊魚資源","name":"鯊魚資源🔪","type":1,"api":"https://shayuapi.com/api.php/provide/vod/"},
-{"key":"X细胞资源","name":"X细胞资源🔪","type":1,"api":"https://www.xxibaozyw.com/api.php/provide/vod/"},
+    {
+      "key": "蕃茄",
+      "name": "🦋 18+蕃茄｜🔞",
+      "type": 1,
+      "api": "https://fqzy.me//api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 {"key":"大地資源","name":"大地資源🔪","type":0,"api":"http://dadiapi.com/api.php"},
-{"key":"樂播資源","name":"香蕉資源🔪","type":1,"api":"https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list"},
+    {
+      "key": "hbmg",
+      "name": "含苞玫瑰",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/08ac7f6850a666b9e6273d276d61dc33.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+        {
+            "key": "黄果优化py",
+            "name": "黄果优化py",
+            "type": 3,
+            "api": "https://tvv.tw/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/19/黄果优化1.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
 {"key":"色猫資源", "name":"色猫資源", "type": 1, "api": "https://caiji.semaozy.net/inc/apijson_vod.php", "searchable": "1", "quickSearch": "1", "filterable": "0"},
 {"key": "155資源", "name": "155資源", "type": 1, "api": "https://155api.com/api.php/provide/vod/", "searchable": "1", "quickSearch": "1", "filterable": "0"},
 
